@@ -1,2 +1,2 @@
 # choice
-Structural language for representing choices in a tree structure
+Specialised file format for defining functional tree structures.
