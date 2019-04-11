@@ -1,5 +1,5 @@
 ## choice
-###### _A specialised file format for defining functional tree structures._
+###### _A specialised file format for defining functional tree structures for navigation and code generation._
 
 ---
 
